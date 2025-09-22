@@ -1,4 +1,4 @@
-# GenieBot – Chatbot no Microsoft Teams com Databricks Genie
+# GenieBot – Microsoft Teams com Databricks Genie
 
 ## 📖 Introdução
 Este guia é um **manual completo e consolidado** para implantar um chatbot no **Microsoft Teams** que interage com a **API Genie do Databricks**, utilizando um fluxo de autenticação seguro com **Single Sign-On (SSO)**.  
